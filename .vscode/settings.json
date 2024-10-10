@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.allowChords": true,
+    "code-runner.showStopIconInEditorTitleMenu": true,
+    "code-runner.showRunIconInEditorTitleMenu": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true
+}
