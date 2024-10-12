@@ -4,7 +4,7 @@ public class koko {
     int ar[]={3,6,7,11};//bs on ans
     int h=8;
     int min=1;
-    int max=findmax(ar);//ans lie between 1-max i.e. no of hours required 
+    int max=findmax(ar);//ans lie between 1-max i.e. no of bananas koko should eat in required hours
     
     int ans=0;
     while(min<=max)
